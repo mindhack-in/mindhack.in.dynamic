@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Sliding Puzzle Beta",
+    "description": "Rearrange shuffled tiles by sliding them into the correct order.",
+    "gameLink": "https://www.mindhack.in/games/slidingPuzzleBeta.html",
+    "video": "dynamic/10X10 Sliding Puzzle.mp4",
+    "new": true
+  },
+  {
+    "name": "Rubik's Cube Timer 2X2",
+    "description": "Randomize the cube with a sequence of twists to start a fresh solving challenge.",
+    "gameLink": "./games/timer2X2.html",
+    "video": "dynamic/2X2RubikCube.mp4",
+    "new": true
+  },
+  {
+    "name": "Rubik's Cube Timer 3X3",
+    "description": "Randomize the cube with a sequence of twists to start a fresh solving challenge.",
+    "video": "dynamic/3X3RubikCube.mp4",
+    "new": false
+  },
+  {
+    "name": "2048",
+    "description": "Slide and combine numbered tiles to reach the elusive 2048 tile.",
+    "gameLink": "./games/2048.html",
+    "video": "./dynamic/2048.mp4",
+    "new": false
+  },
+  {
+    "name": "Sudoku",
+    "description": "A number puzzle where you fill a 9x9 grid so each row, column, and box contains 1–9.",
+    "gameLink": "./games/sudoku.html",
+    "video": "dynamic/sudoku.mp4",
+    "new": false
+  },
+  {
+    "name": "Match the card",
+    "description": "Flip and match pairs of cards using memory and logic.",
+    "gameLink": "./games/MatchTheCard.html",
+    "video": "dynamic/MemoryCard.mp4",
+    "new": false
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Daily sudoku",
+    "gameLink": "https://www.mindhack.in/games/slidingPuzzleBeta.html",
+    "detail":"1 Puzzle today, Bright mind tomorrow",
+    "image": "./dynamic/tournaments/dailysudoku.jpg",
+    "cta":"Comming soon",
+    "p":[
+      "We are comming soon with daily sudoku challenge.",
+      "Stay tune with our official social media accounts"
+    ]
+  },{
+    "name": "Lead the Rubik's Leaderboard",
+    "gameLink": "https://www.mindhack.in/games/rubikscube.html",
+    "detail":"1 Puzzle today, Bright mind tomorrow",
+    "image": "./dynamic/tournaments/rubikscube.png",
+    "cta":"Comming soon",
+    "p":[
+      "<strong>Mindhack.in Presents</strong>",
+      "Mindhack cube competition",
+      "Solve the cube and claim the top position"
+    ]
+  }
+]
