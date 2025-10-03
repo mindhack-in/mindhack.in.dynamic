@@ -29,14 +29,14 @@
   {
     "name": "Sudoku",
     "description": "A number puzzle where you fill a 9x9 grid so each row, column, and box contains 1–9.",
-    "gameLink": "sudoku/sudoku.html",
+    "gameLink": "games/sudoku/sudoku.html",
     "video": "dynamic/sudoku.mp4",
     "new": false
   },
   {
     "name": "Match the card",
     "description": "Flip and match pairs of cards using memory and logic.",
-    "gameLink": "./games/MatchTheCard.html",
+    "gameLink": "/games/MatchTheCard.html",
     "video": "dynamic/MemoryCard.mp4",
     "new": false
   }
