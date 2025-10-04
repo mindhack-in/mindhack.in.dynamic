@@ -2,7 +2,7 @@
   {
     "name": "Sliding Puzzle Beta",
     "description": "Rearrange shuffled tiles by sliding them into the correct order.",
-    "gameLink": "https://www.mindhack.in/games/slidingPuzzleBeta.html",
+    "gameLink": "slidingpuzzle.html",
     "video": "dynamic/10X10 Sliding Puzzle.mp4",
     "new": true
   },
@@ -22,21 +22,21 @@
   {
     "name": "2048",
     "description": "Slide and combine numbered tiles to reach the elusive 2048 tile.",
-    "gameLink": "./games/2048.html",
+    "gameLink": "2048.html",
     "video": "./dynamic/2048.mp4",
     "new": false
   },
   {
     "name": "Sudoku",
     "description": "A number puzzle where you fill a 9x9 grid so each row, column, and box contains 1–9.",
-    "gameLink": "games/sudoku/sudoku.html",
+    "gameLink": "sudoku.html",
     "video": "dynamic/sudoku.mp4",
     "new": false
   },
   {
     "name": "Match the card",
     "description": "Flip and match pairs of cards using memory and logic.",
-    "gameLink": "/games/MatchTheCard.html",
+    "gameLink": "MatchTheCard.html",
     "video": "dynamic/MemoryCard.mp4",
     "new": false
   }
