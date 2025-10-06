@@ -7,17 +7,11 @@
     "new": true
   },
   {
-    "name": "Rubik's Cube Timer 2X2",
+    "name": "Rubik's Cube",
     "description": "Randomize the cube with a sequence of twists to start a fresh solving challenge.",
-    "gameLink": "./games/timer2X2.html",
+    "gameLink": "rubikscubescramble.html",
     "video": "dynamic/2X2RubikCube.mp4",
     "new": true
-  },
-  {
-    "name": "Rubik's Cube Timer 3X3",
-    "description": "Randomize the cube with a sequence of twists to start a fresh solving challenge.",
-    "video": "dynamic/3X3RubikCube.mp4",
-    "new": false
   },
   {
     "name": "2048",
