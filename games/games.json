@@ -2,7 +2,7 @@
   {
     "name": "Sliding Puzzle Beta",
     "description": "Rearrange shuffled tiles by sliding them into the correct order.",
-    "gameLink": "slidingpuzzle.html",
+    "gameLink": "slidingPuzzle.html",
     "video": "games/10X10 Sliding Puzzle.mp4",
     "new": true
   },
